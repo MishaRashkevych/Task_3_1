@@ -2,4 +2,9 @@
     <string name="app_name">Task_3_1</string>
     <string name="btnCheckAnswer">Am I right?</string>
     <string name="inputText">What is your guess?</string>
+    <string name="wrongIsBigger"><b>No:) Secret number is bigger!</b> \nTry again!</string>
+    <string name="wrongIsSmaller"><b>No:) Secret number is smaller!</b> \nTry again!</string>
+    <string name="correctAnswer"><b>Yes, You did it!</b></string>
+    <string name="plsEnterANum"><i>Please enter a number!</i></string>
+    <string name="startNew">Start \nwith new number</string>
 </resources>
